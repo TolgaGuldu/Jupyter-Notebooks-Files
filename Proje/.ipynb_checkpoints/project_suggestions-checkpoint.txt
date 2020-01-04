@@ -1,0 +1,18 @@
+Projects. suggestions
+For each project discuss requirements. 
+
+1. Analyze 2019 Turkey local elections.
+
+2.Analyze USD/TL vs Twits or other social news
+
+3. Analyze CSE101 Students survey data.  (data includes numeric and text values)
+
+4. Do text analysis from any turkish source, twit,  eksi, social 
+
+5. Classification project with (deep) Neural networks
+
+6. Comparison of classifiers in an image or text recognition problem
+
+7. Image segmentation problem with supervised/unsupervised techniques, neural networks etc. 
+
+8. Bring your own ideas? 
